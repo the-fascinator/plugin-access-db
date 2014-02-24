@@ -4,3 +4,7 @@
 *.jar
 *.war
 *.ear
+/tfsecurity
+/target
+/.settings
+/bin
